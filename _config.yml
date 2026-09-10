@@ -126,11 +126,15 @@ logo_height: 77
 # --- Search engines ----------------------------------------------------------
 # Google Search Console → Add property → URL PREFIX (not Domain — Domain needs
 # DNS access you do not have on github.io) → "HTML tag" verification method.
-# Google shows: <meta name="google-site-verification" content="AbC123..." />
-# Paste ONLY the token — the bit between the quotes. If you copied from the
-# "Domain name provider" method instead you will have something shaped like
-# google-site-verification=AbC123... ; the leading label is stripped
-# automatically, but the token is the same either way.
+#
+# THIS FIELD TAKES THE TOKEN ONLY. The site builds the tag around it.
+#
+#   Google shows you:  <meta name="google-site-verification" content="AbC123xyz" />
+#   WRONG:             google_site_verification: <meta name="google-site-..." />
+#   RIGHT:             google_site_verification: "AbC123xyz"
+#
+# Pasting the whole tag breaks the YAML on its inner quotes and the value comes
+# out as the fragment "<meta name=", which will never verify.
 google_site_verification: "nQQTYvKG7GxiekQkFl5FbdSIxaW-ZvUb2o0gzEJkRdg"
 
 # Bing Webmaster Tools works the same way. Optional.
