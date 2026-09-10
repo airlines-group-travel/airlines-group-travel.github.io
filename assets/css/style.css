@@ -1,0 +1,256 @@
+/* ==========================================================================
+   Airlines Group Travel — GitHub Pages profile
+   Single stylesheet. No framework, no build step, no external requests.
+   Change the brand colours in :root and everything follows.
+   ========================================================================== */
+
+:root{
+  --navy:#0d2137;
+  --navy-2:#14304f;
+  --ink:#12202e;
+  --body:#42566a;
+  --muted:#6b7f93;
+  --line:#dce4ec;
+  --bg:#ffffff;
+  --bg-alt:#f4f7fa;
+  --panel:#ffffff;
+  --accent:#c8892f;
+  --accent-ink:#8a5c15;
+  --radius:10px;
+  --wrap:1120px;
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+@media (prefers-color-scheme: dark){
+  :root{
+    --navy:#0a1826;
+    --navy-2:#0f2438;
+    --ink:#eaf1f8;
+    --body:#a9bbcc;
+    --muted:#7f93a6;
+    --line:#22374d;
+    --bg:#0b1521;
+    --bg-alt:#0f1e2e;
+    --panel:#122236;
+    --accent:#e0a949;
+    --accent-ink:#e0a949;
+  }
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;
+  font-family:var(--font);
+  font-size:17px;
+  line-height:1.65;
+  color:var(--body);
+  background:var(--bg);
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3{color:var(--ink);line-height:1.2;margin:0 0 .5em}
+h1{font-size:clamp(2rem,5vw,3rem);letter-spacing:-.02em}
+h2{font-size:clamp(1.4rem,3vw,1.9rem);letter-spacing:-.01em}
+h3{font-size:1.08rem}
+p{margin:0 0 1.1em}
+a{color:var(--accent-ink);text-decoration:none}
+a:hover{text-decoration:underline}
+strong{color:var(--ink)}
+ul,ol{margin:0 0 1.1em;padding-left:1.3em}
+li{margin-bottom:.45em}
+.plain{list-style:none;padding:0;margin:0}
+.muted{color:var(--muted)}
+.small{font-size:.88rem}
+
+.wrap{max-width:var(--wrap);margin:0 auto;padding-inline:20px}
+.wrap.narrow{max-width:760px}
+
+.skip{position:absolute;left:-9999px}
+.skip:focus{left:20px;top:12px;z-index:99;background:var(--accent);color:#fff;padding:10px 16px;border-radius:6px}
+
+/* ---------- header ---------- */
+.site-head{background:var(--navy);position:sticky;top:0;z-index:20}
+.head-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:11px;color:#fff}
+.brand:hover{text-decoration:none}
+.brand-mark{
+  display:inline-grid;place-items:center;width:38px;height:38px;flex:0 0 38px;
+  background:var(--accent);color:#0d2137;border-radius:8px;
+  font-weight:800;font-size:.78rem;letter-spacing:.04em;
+}
+.brand-name{font-weight:650;letter-spacing:-.01em;font-size:1.02rem}
+.head-cta{color:#cfe0f0;font-size:.92rem;font-weight:500}
+.head-cta:hover{color:#fff}
+
+/* ---------- hero ---------- */
+.hero{
+  background:linear-gradient(165deg,var(--navy) 0%,var(--navy-2) 100%);
+  color:#c3d5e6;padding-block:clamp(48px,8vw,84px);
+}
+.hero h1{color:#fff}
+.eyebrow{
+  text-transform:uppercase;letter-spacing:.12em;font-size:.72rem;font-weight:700;
+  color:var(--accent);margin:0 0 14px;
+}
+.lede{font-size:clamp(1.05rem,2.2vw,1.25rem);max-width:52ch;color:#c3d5e6;margin-bottom:1.6em}
+.cta-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:0}
+
+.btn{
+  display:inline-block;padding:13px 24px;border-radius:8px;font-weight:600;
+  font-size:.96rem;border:1px solid transparent;transition:opacity .15s;
+}
+.btn:hover{text-decoration:none;opacity:.9}
+.btn-primary{background:var(--accent);color:#0d2137}
+.btn-ghost{border-color:rgba(255,255,255,.34);color:#fff}
+
+.stat-row{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:22px;
+  margin-top:44px;padding-top:30px;border-top:1px solid rgba(255,255,255,.16);
+}
+.stat-row li{margin:0}
+.stat-row strong{display:block;color:#fff;font-size:1.65rem;line-height:1.1;letter-spacing:-.02em}
+.stat-row span{font-size:.82rem;color:#94aec6}
+
+/* ---------- bands ---------- */
+.band{padding-block:clamp(44px,7vw,72px);background:var(--bg)}
+.band.alt{background:var(--bg-alt);border-block:1px solid var(--line)}
+.section-h{margin-bottom:.35em}
+.section-sub{color:var(--muted);margin-bottom:2em}
+
+/* ---------- service cards ---------- */
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:18px}
+.card{
+  display:block;background:var(--panel);border:1px solid var(--line);
+  border-radius:var(--radius);padding:24px;color:var(--body);
+  transition:border-color .15s,transform .15s;
+}
+.card:hover{text-decoration:none;border-color:var(--accent);transform:translateY(-2px)}
+.card h3{margin-bottom:.45em}
+.card p{font-size:.94rem;margin-bottom:1em}
+.card-link{font-size:.8rem;color:var(--accent-ink);font-weight:600;word-break:break-word}
+
+/* ---------- two column ---------- */
+.two-col{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;align-items:start}
+@media (max-width:760px){.two-col{grid-template-columns:1fr}}
+.panel{
+  background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:var(--radius);padding:24px;font-size:.94rem;
+}
+.panel p{margin-bottom:.9em}
+
+/* ---------- languages ---------- */
+.lang-row{display:flex;gap:12px;flex-wrap:wrap}
+.lang-row a{
+  display:inline-flex;align-items:center;gap:9px;padding:9px 16px;
+  border:1px solid var(--line);border-radius:999px;background:var(--panel);
+  color:var(--ink);font-size:.92rem;font-weight:500;
+}
+.lang-row a:hover{border-color:var(--accent);text-decoration:none}
+.lang-code{
+  text-transform:uppercase;font-size:.68rem;font-weight:800;letter-spacing:.06em;
+  color:var(--accent-ink);
+}
+
+/* ---------- closing ---------- */
+.closing{background:var(--bg-alt);border-top:1px solid var(--line);text-align:center}
+.closing .cta-row{justify-content:center}
+
+/* ---------- footer ---------- */
+.site-foot{background:var(--navy);color:#93aac0;padding-block:48px 26px;font-size:.92rem}
+.site-foot a{color:#cfe0f0}
+.site-foot .muted{color:#8199b0}
+.foot-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:32px}
+.foot-h{color:#fff;font-size:.78rem;text-transform:uppercase;letter-spacing:.1em;margin-bottom:1em}
+.foot-primary{font-weight:600;color:var(--accent) !important}
+.foot-col .plain li{margin-bottom:.5em}
+.foot-legal{margin-top:36px;padding-top:22px;border-top:1px solid rgba(255,255,255,.13)}
+.foot-legal p{margin:0}
+
+/* ---------- ordered steps ---------- */
+.steps{padding-left:1.25em}
+.steps li{margin-bottom:.85em;padding-left:.25em}
+
+/* ---------- accreditation list ---------- */
+.accred{padding-left:1.15em;margin-bottom:1.4em}
+.accred li{margin-bottom:.5em}
+
+/* ---------- panel heading ---------- */
+.panel h3{
+  font-size:.76rem;text-transform:uppercase;letter-spacing:.09em;
+  color:var(--accent-ink);margin-bottom:1em;
+}
+.panel p:last-child{margin-bottom:0}
+.two-col > div > p:last-child{margin-bottom:0}
+
+/* ==========================================================================
+   BLOG
+   ========================================================================== */
+
+/* ---------- header nav ---------- */
+.head-nav{display:flex;align-items:center;gap:20px;flex-wrap:wrap}
+.head-nav a{color:#cfe0f0;font-size:.92rem;font-weight:500}
+.head-nav a:hover{color:#fff}
+
+/* ---------- compact hero for index pages ---------- */
+.hero-sm{padding-block:clamp(38px,6vw,60px)}
+.hero-sm .lede{margin-bottom:0}
+
+/* ---------- guides list ---------- */
+.post-list{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.post-card{padding:0;overflow:hidden;display:flex;flex-direction:column}
+.post-card-img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;max-width:100%}
+.post-card-body{padding:24px}
+.post-card-date{font-size:.78rem;color:var(--muted);margin-bottom:.6em;letter-spacing:.02em}
+.post-card h2{font-size:1.12rem;margin-bottom:.5em}
+.post-card p{font-size:.94rem;margin-bottom:1em}
+.empty-state{color:var(--muted);text-align:center;padding-block:40px}
+
+/* ---------- single post ---------- */
+.post{padding-block:clamp(36px,6vw,60px)}
+.crumbs{font-size:.84rem;color:var(--muted);margin-bottom:1.6em}
+.crumbs a{color:var(--muted)}
+.crumbs a:hover{color:var(--accent-ink)}
+.crumbs span{margin-inline:.5em;opacity:.5}
+.post h1{margin-bottom:.35em}
+.post-meta{font-size:.86rem;color:var(--muted);margin-bottom:1.4em}
+.post-meta span{margin-inline:.35em;opacity:.6}
+.post-standfirst{
+  font-size:1.12rem;line-height:1.6;color:var(--ink);
+  padding-left:16px;border-left:3px solid var(--accent);margin-bottom:2em;
+}
+.post-hero{margin:0 0 2.2em}
+.post-hero img{width:100%;max-width:100%;height:auto;border-radius:var(--radius);display:block}
+.post-hero figcaption{font-size:.82rem;color:var(--muted);margin-top:.7em}
+
+/* ---------- article body ---------- */
+.prose h2{font-size:1.4rem;margin-top:1.9em;margin-bottom:.5em}
+.prose h3{font-size:1.08rem;margin-top:1.5em;margin-bottom:.45em}
+.prose > *:first-child{margin-top:0}
+.prose ul,.prose ol{padding-left:1.3em;margin-bottom:1.2em}
+.prose li{margin-bottom:.5em}
+.prose blockquote{
+  margin:1.6em 0;padding:2px 0 2px 20px;border-left:3px solid var(--line);
+  color:var(--muted);font-style:italic;
+}
+.prose img{max-width:100%;height:auto;border-radius:var(--radius);margin-block:1.6em}
+.prose code{
+  background:var(--bg-alt);border:1px solid var(--line);border-radius:4px;
+  padding:.12em .38em;font-size:.88em;
+}
+.prose pre{background:var(--bg-alt);border:1px solid var(--line);border-radius:var(--radius);
+  padding:16px;overflow-x:auto;margin-block:1.6em}
+.prose pre code{background:none;border:0;padding:0}
+.prose table{width:100%;border-collapse:collapse;margin-block:1.6em;font-size:.94rem}
+.prose th,.prose td{border:1px solid var(--line);padding:10px 12px;text-align:left}
+.prose th{background:var(--bg-alt);color:var(--ink);font-weight:600}
+.table-scroll{overflow-x:auto}
+
+/* ---------- post footer ---------- */
+.post-cta{
+  margin-top:3em;padding:28px;background:var(--bg-alt);
+  border:1px solid var(--line);border-radius:var(--radius);
+}
+.post-cta h2{font-size:1.18rem;margin-bottom:.5em}
+.post-cta p{font-size:.95rem}
+.post-cta p:last-child{margin-bottom:0}
+.post-foot{margin-top:2.2em;padding-top:1.4em;border-top:1px solid var(--line);font-size:.92rem}

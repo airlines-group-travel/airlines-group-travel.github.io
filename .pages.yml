@@ -1,0 +1,127 @@
+# =============================================================================
+#  Pages CMS configuration  —  https://pagescms.org
+#
+#  This file is what turns the repo into an admin panel. Go to
+#  app.pagescms.org, sign in with GitHub, install the app on the
+#  airlines-group-travel organisation, pick this repo, and you get a visual
+#  editor with every field below.
+#
+#  Nothing here affects the built site. Jekyll ignores dotfiles.
+# =============================================================================
+
+media:
+  input: assets/img
+  output: /assets/img
+  categories: [image]
+  extensions: [jpg, jpeg, png, webp, svg]
+
+content:
+  - name: guides
+    label: Guides
+    type: collection
+    path: _blog
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: slug
+      fields: [slug, title, date, published]
+      sort: date
+      order: desc
+    fields:
+
+      - name: slug
+        label: URL slug
+        type: string
+        required: true
+        description: >-
+          The web address of this guide. Lowercase letters, numbers and hyphens
+          only — no spaces, no capitals, no punctuation. It becomes the filename
+          and the URL, so once a guide is published DO NOT change it, or the old
+          address 404s. Example: airline-group-booking-deposits
+
+      - name: title
+        label: Page title (the H1 on the page)
+        type: string
+        required: true
+        description: >-
+          The headline readers see. Write it for a person, not a keyword. If it
+          is under 60 characters it also becomes the search-result title, and
+          you can leave the SEO title below empty.
+
+      - name: meta_title
+        label: SEO title (optional override)
+        type: string
+        description: >-
+          Only fill this in if the page title above is too long or too
+          conversational for a search result. Aim for under 60 characters. The
+          site name is appended automatically — do not type it yourself.
+
+      - name: description
+        label: Meta description
+        type: text
+        required: true
+        description: >-
+          The grey summary line under the title in Google, and the preview text
+          when the page is shared. Aim for 120–160 characters, write it as a
+          full sentence, and make it specific to THIS guide. Google may ignore
+          it and write its own, but a good one is used most of the time.
+
+      - name: date
+        label: Publish date
+        type: date
+        required: true
+        description: >-
+          Feeds datePublished in the structured data and the sort order of the
+          guides list.
+
+      - name: author
+        label: Author
+        type: string
+        default: Airlines Group Travel
+        description: >-
+          Leave as the company name unless you have a real named author with a
+          bio to point at.
+
+      - name: image
+        label: Hero image
+        type: image
+        description: >-
+          Optional. Landscape, ideally 1200×675 or larger. It becomes the social
+          share preview. Compress it first — anything over about 200 KB slows
+          the page down and it is the first thing that loads.
+
+      - name: image_alt
+        label: Image alt text
+        type: string
+        description: >-
+          Describe what is IN the picture, for screen readers and image search.
+          "Passengers boarding a widebody aircraft at dusk" — not "group travel
+          booking cheap flights". Leave empty only if the image is purely
+          decorative. Required whenever you add an image.
+
+      - name: image_caption
+        label: Image caption (optional)
+        type: string
+        description: Shown under the image on the page. Leave empty for no caption.
+
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+        description: >-
+          Turn this off to keep a draft out of the guides list, the sitemap and
+          the RSS feed. The file still lives in the repo.
+
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          format: markdown
+          media: true
+          path: assets/img
+        description: >-
+          Use Heading 2 for main sections and Heading 3 beneath them. Do not use
+          Heading 1 anywhere — the page title above is already the H1, and a
+          second one confuses the page outline. Add alt text to every image you
+          insert. Link out to the relevant page on airlinesgrouptravel.com
+          wherever a reader would want to act on what they have just read.

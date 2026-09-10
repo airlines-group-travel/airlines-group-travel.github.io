@@ -1,0 +1,8 @@
+# https://airlines-group-travel.github.io/robots.txt
+# Official GitHub Pages profile of Airlines Group Travel.
+# The main website is https://www.airlinesgrouptravel.com
+
+User-agent: *
+Allow: /
+
+Sitemap: https://airlines-group-travel.github.io/sitemap.xml

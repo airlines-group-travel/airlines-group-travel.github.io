@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /404.html
+title: "Page not found"
+description: "That page does not exist on this site."
+noindex: true
+sitemap: false
+---
+<section class="band">
+<div class="wrap narrow">
+<p class="eyebrow">Error 404</p>
+<h1>That page does not exist</h1>
+<p>The address you followed is not on this site. It may have been moved, or the link may be wrong.</p>
+<p class="cta-row">
+<a class="btn btn-primary" href="{{ '/' | relative_url }}">Company profile</a>
+<a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">{{ site.blog_title }}</a>
+</p>
+<p class="muted" style="margin-top:2em">Looking to book? Everything commercial lives at <a href="{{ site.main_site }}">{{ site.main_site_label }}</a>.</p>
+</div>
+</section>

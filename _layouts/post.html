@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<article class="post">
+<div class="wrap narrow">
+
+<nav class="crumbs" aria-label="Breadcrumb">
+<a href="{{ '/' | relative_url }}">Home</a>
+<span aria-hidden="true">/</span>
+<a href="{{ '/blog/' | relative_url }}">{{ site.blog_title }}</a>
+</nav>
+
+<h1>{{ page.title }}</h1>
+
+<p class="post-meta">
+<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+<span aria-hidden="true">&middot;</span>
+{{ page.author | default: site.default_author }}
+</p>
+
+{% if page.description %}
+<p class="post-standfirst">{{ page.description }}</p>
+{% endif %}
+
+{% if page.image %}
+<figure class="post-hero">
+<img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}" loading="lazy" decoding="async">
+{% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+</figure>
+{% endif %}
+
+<div class="prose">
+{{ content }}
+</div>
+
+<aside class="post-cta">
+<h2>Planning a group booking?</h2>
+<p>Send the route, the dates and a rough head count. Quotes come back with the deposit terms and the name deadline stated up front.</p>
+<p><a class="btn btn-primary" href="{{ site.main_site }}">Get a quote at {{ site.main_site_label }}</a></p>
+</aside>
+
+<nav class="post-foot">
+<a href="{{ '/blog/' | relative_url }}">&larr; All {{ site.blog_title | downcase }}</a>
+</nav>
+
+</div>
+</article>

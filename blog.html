@@ -1,0 +1,38 @@
+---
+layout: default
+permalink: /blog/
+title: "Group Travel Guides"
+description: "Practical guidance on booking and managing group air travel for ten or more passengers — fare rules, deposits, name deadlines and cabin options."
+---
+<section class="hero hero-sm">
+<div class="wrap">
+<p class="eyebrow">{{ site.title }}</p>
+<h1>{{ site.blog_title }}</h1>
+<p class="lede">{{ site.blog_intro }}</p>
+</div>
+</section>
+
+<section class="band">
+<div class="wrap">
+{% assign posts = site.blog | where_exp: "p", "p.published != false" | sort: "date" | reverse %}
+{% if posts.size > 0 %}
+<div class="cards post-list">
+{% for post in posts %}
+<a class="card post-card" href="{{ post.url | relative_url }}">
+{% if post.image %}
+<img class="post-card-img" src="{{ post.image | relative_url }}" alt="{{ post.image_alt }}" loading="lazy" decoding="async">
+{% endif %}
+<div class="post-card-body">
+<p class="post-card-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time></p>
+<h2>{{ post.title }}</h2>
+<p>{{ post.description | default: post.excerpt | strip_html | truncate: 200 }}</p>
+<span class="card-link">Read the guide &rarr;</span>
+</div>
+</a>
+{% endfor %}
+</div>
+{% else %}
+<p class="empty-state">No guides published yet. The first one will appear here.</p>
+{% endif %}
+</div>
+</section>

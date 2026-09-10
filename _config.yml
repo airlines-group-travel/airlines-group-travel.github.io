@@ -1,0 +1,182 @@
+# =============================================================================
+#  Airlines Group Travel — GitHub Pages brand profile
+#
+#  Everything you will ever need to edit lives in THIS file. Change a value
+#  here and it updates the page text, the <head> meta tags and the JSON-LD
+#  structured data all at once — they can never disagree with each other.
+#
+#  After any edit, GitHub rebuilds the site in about a minute.
+#  YAML is whitespace-sensitive: keep the indentation exactly as it is.
+#  If a build fails, paste this file into https://www.yamllint.com
+# =============================================================================
+
+# --- Where this site is published -------------------------------------------
+# The rule: the owner name + ".github.io" must equal the repository name for a
+# site to serve from the domain root. This repo is
+# airlines-group-travel/airlines-group-travel.github.io, so both match and
+# baseurl stays empty. If you ever move the repo, change url to match or the
+# stylesheet 404s and the page renders as unstyled text on white.
+url:      "https://airlines-group-travel.github.io"
+baseurl:  ""
+
+# --- Brand identity ----------------------------------------------------------
+title:       "Airlines Group Travel"
+tagline:     "Group Air Travel Specialists"
+description: >-
+  Airlines Group Travel arranges group air travel for 10 or more passengers
+  across 178+ airlines worldwide — group bookings, business class, negotiated
+  fares and private jet charter. Operated by Airfare Services USA LLC.
+
+# Opening line in the hero.
+hero_line: >-
+  We book groups of 10 or more onto scheduled airlines worldwide — one
+  itinerary, one invoice, one point of contact.
+
+# --- The real website this profile points to ---------------------------------
+main_site:        "https://www.airlinesgrouptravel.com"
+main_site_label:  "airlinesgrouptravel.com"
+
+# --- Contact -----------------------------------------------------------------
+email:          "info@airlinesgrouptravel.com"
+phone:          "+1-888-609-1015"       # E.164 format — this goes into structured data
+phone_display:  "+1 (888)-609-1015"     # how it reads on screen
+
+# --- Legal entity ------------------------------------------------------------
+legal_name:    "Airfare Services USA LLC"
+street:        "8 The Green, Suite A"
+locality:      "Dover"
+region:        "DE"
+postal_code:   "19901"
+country:       "US"
+founding_year: "2022"
+
+# 8 The Green, Suite A is a registered-agent address shared with thousands of
+# other Delaware LLCs, so it carries no local-SEO value. Set this to false to
+# drop it cleanly from both the page and the structured data, or replace the
+# fields above with a genuine customer-facing office.
+show_address: true
+
+# --- Accreditations (text only — do not use logos you are not licensed for) ---
+accreditations:
+  - name: "IATA"
+    full: "International Air Transport Association"
+  - name: "ARC"
+    full: "Airlines Reporting Corporation"
+  - name: "ASTA"
+    full: "American Society of Travel Advisors"
+
+# --- Services (each becomes a card linking into the main site) ----------------
+services:
+  - name:  "Group Flight Bookings"
+    path:  "/flights"
+    blurb: "Negotiated group fares for 10+ passengers on 178 airlines, with held seats and deferred names."
+  - name:  "Business Class for Groups"
+    path:  "/business-class"
+    blurb: "Premium-cabin group allocations and corporate travel on long-haul routes."
+  - name:  "Fare Deals"
+    path:  "/deals"
+    blurb: "Current negotiated and consolidator fares on domestic and international routes."
+  - name:  "Private Jet Charter"
+    path:  "/private-jet-charter"
+    blurb: "Full-aircraft charter when a scheduled service will not fit the itinerary."
+  - name:  "Travel Guides"
+    path:  "/blogs"
+    blurb: "Airline fare classes, baggage rules, upgrades and group-booking policy explained."
+  - name:  "About the Company"
+    path:  "/about-us"
+    blurb: "Who we are, our accreditations and how the booking process works."
+
+# --- Languages the main site publishes in ------------------------------------
+languages:
+  - code: "en"
+    name: "English"
+    path: "/"
+  - code: "es"
+    name: "Español"
+    path: "/es"
+  - code: "fr"
+    name: "Français"
+    path: "/fr"
+
+# --- Official profiles -------------------------------------------------------
+# Verified against the main site's footer on 2026-09-03. Printed in the footer
+# AND emitted as schema.org sameAs. Keep these in sync with the main site.
+profiles:
+  - name: "Facebook"
+    url:  "https://www.facebook.com/airgrouptravel"
+  - name: "Instagram"
+    url:  "https://www.instagram.com/airgrouptravel/"
+  - name: "X"
+    url:  "https://x.com/airgrouptravel"
+  - name: "LinkedIn"
+    url:  "https://www.linkedin.com/company/airlines-group-travel"
+  - name: "YouTube"
+    url:  "https://www.youtube.com/@airlinesgrouptravel"
+  - name: "Pinterest"
+    url:  "https://www.pinterest.com/airlinesgrouptravel/"
+  - name: "Trustpilot"
+    url:  "https://www.trustpilot.com/review/airlinesgrouptravel.com"
+
+# --- Logo --------------------------------------------------------------------
+# Put logo.png and favicon.png in assets/img/ — see GUIDE.md step 5.
+logo_path:   "/assets/img/logo.png"
+logo_width:  284
+logo_height: 77
+
+# --- Search engines ----------------------------------------------------------
+# Google Search Console → Add property → URL prefix → HTML tag verification.
+# Google shows: <meta name="google-site-verification" content="AbC123..." />
+# Paste ONLY the content value between the quotes below, then commit. The tag
+# then renders on every page and stays there through every rebuild.
+google_site_verification: "google-site-verification=raR40SnduOb2ZoWdfA51o1i-1Q4TiE6HbjqC6JNEVA0"
+
+# Bing Webmaster Tools works the same way. Optional.
+bing_site_verification: ""
+
+# --- Blog --------------------------------------------------------------------
+blog_title:  "Group Travel Guides"
+blog_intro:  >-
+  Practical guidance on booking, managing and travelling with groups of ten or
+  more — fare rules, deadlines, deposits and the parts of the process that
+  differ from booking a single ticket.
+# Author shown on every post unless a post overrides it.
+default_author: "Airlines Group Travel"
+
+# --- Jekyll build settings (leave these alone) -------------------------------
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# RSS feed for the blog. If /feed.xml returns 404 once your first guide is live,
+# delete the <link rel="alternate"> line in _layouts/default.html.
+feed:
+  collections:
+    blog:
+      path: "/feed.xml"
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:name/
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - GUIDE.md
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: "post"
+      author: "Airlines Group Travel"
