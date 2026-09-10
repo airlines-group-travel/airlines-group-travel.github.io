@@ -128,7 +128,7 @@ logo_height: 77
 # Google shows: <meta name="google-site-verification" content="AbC123..." />
 # Paste ONLY the content value between the quotes below, then commit. The tag
 # then renders on every page and stays there through every rebuild.
-google_site_verification: "google-site-verification=raR40SnduOb2ZoWdfA51o1i-1Q4TiE6HbjqC6JNEVA0"
+google_site_verification: <meta name="google-site-verification" content="nQQTYvKG7GxiekQkFl5FbdSIxaW-ZvUb2o0gzEJkRdg" />
 
 # Bing Webmaster Tools works the same way. Optional.
 bing_site_verification: ""
