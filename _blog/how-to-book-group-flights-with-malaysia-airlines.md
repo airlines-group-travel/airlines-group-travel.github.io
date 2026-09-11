@@ -2,7 +2,7 @@
 slug: how-to-book-group-flights-with-malaysia-airlines
 title: How to Book Group Flights with Malaysia Airlines?
 meta_title: How to Book Group Flights with Malaysia Airlines?
-description: Passengers can book group flights for 10 or more passengers
+description: Passengers can book group flights for 10 or more individuals
   directly on same itinerary through the MH group booking portal. Learn booking
   process, steps & discounts
 date: 2026-09-11
