@@ -19,7 +19,7 @@ Unquestionably, group bookings are offered on Malaysia Airlines. These unique re
 
 ## **How to Book Malaysia Airlines Tickets for a group?**
 
-Planning a group booking on Malaysia Airlines takes minimal effort for travelers. From the outset, the process is simple; flyers can begin the reservation by locating the group page on the airlines official website. Here, to request a [Malaysia Airlines Group Booking](https://www.airlinesgrouptravel.com/flights/malaysia-airlines-group-booking), they have to share the travel related information on the form and submit it to get a tailor made quote for their journey. Through this, one can also increase their understanding of what the service offers, such as its benefits, prerequisites, and other similar attributes. In addition, the entire booking process has been explained in the pointers at the bottom. 
+Planning a group booking on Malaysia Airlines takes minimal effort for travelers. From the outset, the process is simple; flyers can begin the reservation by locating the group page on the airlines official website. Here, to request a [MH Group Booking](https://www.airlinesgrouptravel.com/flights/malaysia-airlines-group-booking), they have to share the travel related information on the form and submit it to get a tailor made quote for their journey. Through this, one can also increase their understanding of what the service offers, such as its benefits, prerequisites, and other similar attributes. In addition, the entire booking process has been explained in the pointers at the bottom. 
 
 1. Begin by heading to the official website of Malaysia Airlines.
 2. Select the “Plan Trip” icon and then the “Group Bookings”.
