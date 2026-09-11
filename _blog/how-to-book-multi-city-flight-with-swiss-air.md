@@ -13,7 +13,7 @@ published: true
 ---
 An air trip to several destinations could easily originate with Swiss Air. Through this airline, passengers can make their journey without any stress or hassle. More than that, to fly to different locations, one can choose the Swiss Air Multi City feature, which allows them to fly on a single itinerary. It doesn’t require making separate reservations for each destination. Moreover, the perks that come with this feature are unbeatable and make the trip more soothing. Thus, a traveler looking for the same can undoubtedly pick it for their next journey. Apart from this, to get in-depth information on all this, one can read the subtitles mentioned below. 
 
-### **Does Swiss Air Offer Multi City Flights?**
+## **Does Swiss Air Offer Multi City Flights?**
 
 Indeed! Multi-city flights are offered by Swiss Air, which allow passengers to travel to different destinations in a single booking creadintal. In these flights, one can travel to different locales in one go. It is because the multi-city flight with Swiss doesn’t need to be booked separately, and all are provided under the same reservation. Apart from this, it doesn't require anyone to follow any conditions set by the airline. 
 
