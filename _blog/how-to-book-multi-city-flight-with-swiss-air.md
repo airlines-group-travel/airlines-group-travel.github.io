@@ -7,7 +7,7 @@ description: Arrange a trip with Swiss Air Multi City feature and travel to many
   & more
 date: 2026-09-10
 author: Airlines Group Travel
-image: /assets/img/Swiss Air Multi City Flights (1).jpg
+image: /assets/img/Swiss Air Multi City Flights.jpg
 image_alt: How to Book a Multi City Flight with Swiss Air?
 published: true
 ---
@@ -21,13 +21,13 @@ Indeed! Multi-city flights are offered by Swiss Air, which allow passengers to t
 
 A traveler can easily fly to various regions with Swiss Air, as this airline offers an astonishing multi-city option. With this, they don’t need to make separate reservations for each place. Other than this, to make a [Swiss Air multi-city booking](https://www.airlinesgrouptravel.com/blog/how-do-i-book-a-multi-city-flight-with-swiss-air), flyers can use its official website. Thus, to learn the complete process, one can go through the following steps. 
 
-1. Navigate to the Swiss Air official website. 
-2. Select the multi-city option on the homepage. 
+1. Navigate to the Swiss Air official website.
+2. Select the multi-city option on the homepage.
 3. Fill in the travel details, including destinations and dates, and click on “Find Flights”.
 4. Soon, the airline will display the available flights; choose any of them accordingly.
-5. Thereafter, add any extra service and share the passenger’s details. 
-6. Now, proceed to make the payment through the available modes. 
-7. At last, get the ticket itinerary to the registered email address. 
+5. Thereafter, add any extra service and share the passenger’s details.
+6. Now, proceed to make the payment through the available modes.
+7. At last, get the ticket itinerary to the registered email address.
 
 ### **Is It Cheaper to Book a Multi City Flight on Swiss Air?**
 
