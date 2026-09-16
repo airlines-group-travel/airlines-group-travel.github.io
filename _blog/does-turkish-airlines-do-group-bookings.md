@@ -26,11 +26,17 @@ Accessing group flight tickets on Turkish Airlines is simpler, as it provides se
 
 #### **Book Turkish Airlines Group Flight through a Phone Call**
 
+
+
 #### Reaching out to Turkish Airlines directly by phone will be a perfect and straightforward choice to make flight bookings. For that reason, one of the group members will need to call +1 857 277 0361 to communicate with the professionals. In this way, the airline executives will guide the flyers through the whole booking process. Apart from this, the flyers can also ask any booking-related questions.
+
+
 
 #### **Draft an Email for Making Turkish Airlines Group Reservation**
 
-#### A flight for several individuals can also be booked by drafting an email to Turkish Airlines. Here, the passengers can share their group requirements in a clear format. Thus, to make a Turkish group travel booking, one can send an email to [iah.ticketing@thy.com](mailto:iah.ticketing@thy.com) and ask for a quote. By doing so, the airline will assist the travelers with the complete booking process.
+
+
+#### A flight for several individuals can also be booked by drafting an email to Turkish Airlines. Here, the passengers can share their group requirements in a clear format. Thus, to make a Turkish group travel booking, one can send an email to iah.ticketing@thy.com and ask for a quote. By doing so, the airline will assist the travelers with the complete booking process.
 
 ### **Conclusion**
 
