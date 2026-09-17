@@ -22,13 +22,13 @@ Of course, multi-city flights are available on Copa Airlines. By getting these s
 
 Copa Airlines enables travellers to shape their multi destination expedition without experiencing much difficulty. To do so, they provide several modes that are optimized to ease the booking experience of the flyers. One could start the Copa Airlines Multi City Booking by calling the sales desks and expedite the process. For this, they have to use the phone number +1 786 840 2672 and secure the ticket in an expeditious manner. Or they could create a booking on the official website of the airline, and the guide for that is laid out in the steps below.
 
-1. Reach out to the official website of Copa Airlines. 
-2. Select the “Multicity” option from the dropdown. 
-3. Add the number of flights according to your itinerary. 
-4. Then, fill out the specifics for each of them. 
-5. Now, select the flights with their travel class and timing. 
-6. Enter the details of the travelers and make the payment. 
-7. Once finished, the tickets will be shared to your email. 
+1. Reach out to the official website of Copa Airlines.
+2. Select the “Multicity” option from the dropdown.
+3. Add the number of flights according to your itinerary.
+4. Then, fill out the specifics for each of them.
+5. Now, select the flights with their travel class and timing.
+6. Enter the details of the travelers and make the payment.
+7. Once finished, the tickets will be shared to your email.
 
 ### **Is Multi City Booking Cheaper on Copa Airlines?**
 
