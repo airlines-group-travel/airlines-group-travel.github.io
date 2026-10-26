@@ -96,7 +96,7 @@ li{margin-bottom:.45em}
 .btn{
   display:inline-flex;align-items:center;justify-content:center;gap:.5rem;
   padding:.78rem 1.35rem;border:1px solid transparent;border-radius:999px;
-  font:inherit;font-weight:600;font-size:.95rem;cursor:pointer;text-align:center;
+  font:inherit;font-weight:600;font-size:.95rem;cursor:pointer;text-align:center;white-space:nowrap;
   transition:transform .15s ease, box-shadow .15s ease, background .15s ease, color .15s ease;
 }
 .btn:hover{text-decoration:none}
@@ -163,12 +163,13 @@ li{margin-bottom:.45em}
 
 /* The CTA sits on a near-white header bar, so a white fill needs a defined
    edge and a lift to still read as a button rather than as bare text. */
-.head-cta{
+.head-nav .head-cta{
+  padding:.72rem 1.6rem;
   background:#fff;color:var(--brand);border-color:#B7D6D1;
   box-shadow:0 1px 2px rgba(8,64,60,.08), 0 4px 12px rgba(8,64,60,.10);
   font-weight:600;
 }
-.head-cta:hover{
+.head-nav .head-cta:hover{
   background:var(--accent-pale);color:var(--brand);border-color:var(--accent);
   box-shadow:0 2px 4px rgba(8,64,60,.10), 0 8px 20px rgba(8,64,60,.14);
 }
@@ -397,7 +398,7 @@ li{margin-bottom:.45em}
   .head-nav a{padding:.8rem 0;border-bottom:1px solid var(--line)}
   .head-nav a::after{display:none}
   .head-nav .btn{margin-top:.75rem;border-bottom:0}
-  .head-cta,.head-cta:hover{
+  .head-nav .head-cta,.head-nav .head-cta:hover{
     background:var(--brand);color:#fff;border-color:transparent;
     box-shadow:0 6px 16px rgba(15,92,87,.28);
   }
