@@ -160,7 +160,18 @@ li{margin-bottom:.45em}
 }
 .head-nav a:hover::after{right:0}
 .head-nav .btn::after{display:none}
-.head-nav .btn:hover{color:#fff}
+
+/* The CTA sits on a near-white header bar, so a white fill needs a defined
+   edge and a lift to still read as a button rather than as bare text. */
+.head-cta{
+  background:#fff;color:var(--brand);border-color:#B7D6D1;
+  box-shadow:0 1px 2px rgba(8,64,60,.08), 0 4px 12px rgba(8,64,60,.10);
+  font-weight:600;
+}
+.head-cta:hover{
+  background:var(--accent-pale);color:var(--brand);border-color:var(--accent);
+  box-shadow:0 2px 4px rgba(8,64,60,.10), 0 8px 20px rgba(8,64,60,.14);
+}
 
 .nav-toggle{
   display:none;margin-left:auto;width:44px;height:44px;border:1px solid var(--line);
@@ -386,12 +397,15 @@ li{margin-bottom:.45em}
   .head-nav a{padding:.8rem 0;border-bottom:1px solid var(--line)}
   .head-nav a::after{display:none}
   .head-nav .btn{margin-top:.75rem;border-bottom:0}
+  .head-cta,.head-cta:hover{
+    background:var(--brand);color:#fff;border-color:transparent;
+    box-shadow:0 6px 16px rgba(15,92,87,.28);
+  }
   .nav-toggle{display:flex}
 }
 
 @media (max-width:720px){
-  .topbar-inner{flex-direction:column;align-items:flex-start;gap:.2rem;padding-block:.45rem}
-  .topbar{font-size:.8rem}
+  .topbar{display:none}
   .foot-grid{grid-template-columns:1fr;gap:1.8rem}
   .cta-row .btn{flex:1 1 auto}
   .call-bar{display:flex}
@@ -404,8 +418,6 @@ li{margin-bottom:.45em}
 
 @media (max-width:480px){
   .brand img{height:30px}
-  .topbar{font-size:.74rem}
-  .tag{font-size:.64rem}
   .hero h1{font-size:2.05rem}
   .steps li{padding-left:3.1rem}
   .steps li::before{width:38px;height:38px;font-size:.95rem}
