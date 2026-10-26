@@ -14,6 +14,33 @@ description: "Official profile of Airlines Group Travel (Airfare Services USA LL
 -->
 
 <section class="hero">
+<div class="hero-sky" aria-hidden="true">
+<svg viewBox="0 0 1440 420" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#08403C"/>
+<stop offset="55%" stop-color="#0F5C57"/>
+<stop offset="100%" stop-color="#147A6E"/>
+</linearGradient>
+<radialGradient id="skyGlow" cx="78%" cy="18%" r="45%">
+<stop offset="0%" stop-color="#5EEAD4" stop-opacity=".55"/>
+<stop offset="100%" stop-color="#5EEAD4" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<rect width="1440" height="420" fill="url(#skyGrad)"/>
+<rect width="1440" height="420" fill="url(#skyGlow)"/>
+<g fill="#ffffff" opacity=".07">
+<ellipse cx="180" cy="120" rx="150" ry="42"/>
+<ellipse cx="300" cy="140" rx="110" ry="32"/>
+<ellipse cx="1180" cy="90" rx="170" ry="46"/>
+<ellipse cx="1040" cy="118" rx="120" ry="34"/>
+<ellipse cx="700" cy="330" rx="200" ry="50"/>
+</g>
+<g stroke="#5EEAD4" stroke-width="2" fill="none" opacity=".35" stroke-dasharray="6 10">
+<path d="M-40 300 C 320 180, 700 360, 1480 140"/>
+</g>
+</svg>
+</div>
 <div class="wrap">
 <p class="eyebrow">Official company profile</p>
 <h1>{{ site.title }}</h1>

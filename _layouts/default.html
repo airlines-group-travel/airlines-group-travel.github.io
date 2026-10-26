@@ -52,6 +52,9 @@ explicitly and lifts Google's snippet and image-preview limits. {%- endcomment -
 
 <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }} — {{ site.blog_title }}" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 {% include schema.html %}
@@ -60,16 +63,26 @@ explicitly and lifts Google's snippet and image-preview limits. {%- endcomment -
 
 <a class="skip" href="#main">Skip to content</a>
 
+<div class="topbar">
+<div class="wrap topbar-inner">
+<p><span class="tag">{{ site.tagline }}</span> Bookings and quotes are handled at <a href="{{ site.main_site }}">{{ site.main_site_label }}</a></p>
+<a href="tel:{{ site.phone }}"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg> Group desk: <strong>{{ site.phone_display }}</strong></a>
+</div>
+</div>
+
 <header class="site-head">
 <div class="wrap head-inner">
 <a class="brand" href="{{ '/' | relative_url }}">
-<span class="brand-mark" aria-hidden="true">AGT</span>
-<span class="brand-name">{{ site.title }}</span>
+<img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="" width="240" height="48">
+<span class="brand-name visually-hidden">{{ site.title }}</span>
 </a>
-<nav class="head-nav" aria-label="Main">
+<nav class="head-nav" id="head-nav" aria-label="Main">
 <a href="{{ '/blog/' | relative_url }}">Guides</a>
-<a class="head-cta" href="{{ site.main_site }}">Visit {{ site.main_site_label }} &rarr;</a>
+<a class="btn head-cta" href="{{ site.main_site }}">Visit Official Website &rarr;</a>
 </nav>
+<button class="nav-toggle" type="button" aria-expanded="false" aria-controls="head-nav" aria-label="Menu">
+<span></span><span></span><span></span>
+</button>
 </div>
 </header>
 
@@ -80,7 +93,8 @@ explicitly and lifts Google's snippet and image-preview limits. {%- endcomment -
 <footer class="site-foot">
 <div class="wrap foot-grid">
 
-<div class="foot-col">
+<div class="foot-col foot-brand">
+<img src="{{ '/assets/img/logo-light.svg' | relative_url }}" alt="" width="240" height="48" loading="lazy">
 <h2 class="foot-h">{{ site.title }}</h2>
 <p class="muted">{{ site.tagline }}</p>
 <p><a class="foot-primary" href="{{ site.main_site }}">{{ site.main_site_label }}</a></p>
@@ -120,6 +134,23 @@ at <a href="{{ site.main_site }}">{{ site.main_site_label }}</a>.
 </p>
 </div>
 </footer>
+
+<a class="call-bar" href="tel:{{ site.phone }}"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg> Call the group desk &mdash; {{ site.phone_display }}</a>
+
+<script>
+/* Mobile menu. Progressive enhancement: with JS off the toggle is the only
+   thing that breaks, and every nav link is still reachable in the footer. */
+(function () {
+  var btn = document.querySelector('.nav-toggle');
+  var nav = document.getElementById('head-nav');
+  if (!btn || !nav) return;
+  btn.addEventListener('click', function () {
+    var open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!open));
+    nav.classList.toggle('is-open', !open);
+  });
+})();
+</script>
 
 </body>
 </html>
