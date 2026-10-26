@@ -2,12 +2,14 @@
 slug: how-to-make-a-group-booking-on-cathay-pacific
 title: How to Make A Group Booking On Cathay Pacific?
 meta_title: How to Make a Group Booking on Cathay Pacific?
-description: Cathay Pacific group bookings need 10 or more passengers on one itinerary.
-  Learn the terms, the group desk booking steps and how the discount is decided.
+description: Cathay Pacific group bookings need 10 or more passengers on one
+  itinerary. Learn the terms, the group desk booking steps and how the discount
+  is decided.
 date: 2026-10-26
 author: Airlines Group Travel
 image: /assets/img/cathay-pacific-group-booking.jpg
-image_alt: Banner reading Cathay Pacific Group Booking — premium-cabin and economy group travel on Cathay Pacific
+image_alt: Banner reading Cathay Pacific Group Booking — premium-cabin and
+  economy group travel on Cathay Pacific
 image_caption: Cathay Pacific Group Booking
 published: true
 ---
@@ -28,13 +30,13 @@ Traveling with a large group on Cathay Pacific requires everyone to align with s
 
 Cathay Pacific offers an ideal method to reserve group flights effortlessly in no time. One can do so by calling the airline group desk executives. In this way, the flyers can convey their travel details and requirements directly to the professionals and can also ask any questions. Further, the Cathay Pacific group department will assist the flyer with the quote, benefits and other features. Thus, the step-by-step procedure for the same is provided in the highlights below.
 
-- Contact Cathay Pacific by dialing 1 (833) 933-2244.
-- Select the appropriate language to communicate with the professionals.
-- Now, share the travel details and requirements with the airline.
-- In a while, the airline will share a group quote to the registered email address, and the professionals will explain it completely.
-- Approve the quote before the prescribed deadline.
-- Make the payment and share all the travelers' details.
-- Finally, get the confirmed ticket itinerary sent to the provided email.
+1. Contact Cathay Pacific by dialing 1 (833) 933-2244.
+2. Select the appropriate language to communicate with the professionals.
+3. Now, share the travel details and requirements with the airline.
+4. In a while, the airline will share a group quote to the registered email address, and the professionals will explain it completely.
+5. Approve the quote before the prescribed deadline.
+6. Make the payment and share all the travelers' details.
+7. Finally, get the confirmed ticket itinerary sent to the provided email.
 
 ## Conclusion
 
