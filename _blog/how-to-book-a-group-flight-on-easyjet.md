@@ -3,11 +3,13 @@ slug: how-to-book-a-group-flight-on-easyjet
 title: How to Book a Group Flight on easyJet?
 meta_title: How to Book a Group Flight on easyJet?
 description: easyJet group bookings cover 10 to 99 travellers on one flight and
-  itinerary. Learn the request form, the group desk phone line and the email route.
+  itinerary. Learn the request form, the group desk phone line and the email
+  route.
 date: 2026-10-26
 author: Airlines Group Travel
 image: /assets/img/easyjet-group-travel.jpg
-image_alt: Banner reading easyJet Group Travel — booking 10 to 99 travellers on one itinerary
+image_alt: Banner reading easyJet Group Travel — booking 10 to 99 travellers on
+  one itinerary
 image_caption: easyJet Group Travel
 published: true
 ---
@@ -25,17 +27,17 @@ Enchanting a journey to a stunning location with close members becomes easy when
 
 Traveling with numerous passengers feels exciting and can be planned on easyJet. This could be possible because of its official website, where passengers can share their travel and companion information by filling out a form. In this way, they can also get to know about the current deals and offerings of the airline. Thus, the process for this is explained in the following sections.
 
-- Head to the official website of easyJet.
-- Go to the "Business" icon and select the "Group bookings" option.
-- Tap on the "Group Bookings Request Form" and move to a new page.
-- Enter the travel details in the provided columns of the form.
-- After this, the airline will share a quote for the airfare.
-- Accept it before the mentioned deadline and make the payment.
-- Provide the details of all the group members and get the tickets emailed.
+1. Head to the official website of easyJet.
+2. Go to the "Business" icon and select the "Group bookings" option.
+3. Tap on the "Group Bookings Request Form" and move to a new page.
+4. Enter the travel details in the provided columns of the form.
+5. After this, the airline will share a quote for the airfare.
+6. Accept it before the mentioned deadline and make the payment.
+7. Provide the details of all the group members and get the tickets emailed.
 
 ### Make an easyJet Group Flights Reservation Through Phone Call or By Drafting an Email
 
-A simple and effective way to make the reservation on easyJet is by communicating with the airline's executives. To do so, the flyer can dial +44 (0) 330 5515144 and convey their travel details and requirements to the easyJet Group Desk executives. Moreover, they can also ask any queries or doubts and get an instant solution for them. Apart from this, one can do the same thing by drafting an email to the airline at groups@easyjet.com in a clear format.
+A simple and effective way to make the reservation on easyJet is by communicating with the airline's executives. To do so, the flyer can dial +44 (0) 330 5515144 and convey their travel details and requirements to the easyJet Group Desk executives. Moreover, they can also ask any queries or doubts and get an instant solution for them. Apart from this, one can do the same thing by drafting an email to the airline at [groups@easyjet.com](mailto:groups@easyjet.com) in a clear format.
 
 ## Conclusion
 
