@@ -26,13 +26,13 @@ Enchanting an expedition with several flyers can be easily done on Southwest Air
 
 A structured way to get Southwest Airlines tickets for a group is its online platform. Through this, flyers can easily get Southwest Group Travel tickets quickly for any number of flyers, including more than 10. This is because the airline provides a step-by-step way to request a group quote from the official website. Moreover, one can also learn about its features, deals and current offers from here. Thus, the complete process for the same is mentioned herein.
 
-- Locate the official web portal of Southwest Airlines.
-- Go to the end and select the “Group Travel” icon.
-- Now, click on “Request Proposal” and enter the required details in the form.
-- Once submitted, the airline will share the price quote.
-- Accept it before the given deadline and move on to make the payment.
-- Share the travel details of all the accompanying travelers.
-- And finally, get the confirmed itinerary by email.
+1. Locate the official web portal of Southwest Airlines.
+2. Go to the end and select the “Group Travel” icon.
+3. Now, click on “Request Proposal” and enter the required details in the form.
+4. Once submitted, the airline will share the price quote.
+5. Accept it before the given deadline and move on to make the payment.
+6. Share the travel details of all the accompanying travelers.
+7. And finally, get the confirmed itinerary by email.
 
 #### **Reserve a Southwest Group Flight Via the Phone Call**
 
