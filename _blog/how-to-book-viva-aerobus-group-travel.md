@@ -2,12 +2,14 @@
 slug: how-to-book-viva-aerobus-group-travel
 title: How to Book Viva Aerobus Group Travel?
 meta_title: How to Book Viva Aerobus Group Travel?
-description: Viva Aerobus group travel starts at 10 passengers, with a 25% deposit,
-  free name changes to five days out, and booking by phone, email or the online portal.
+description: Viva Aerobus group travel starts at 10 passengers, with a 25%
+  deposit, free name changes to five days out, and booking by phone, email or
+  the online portal.
 date: 2026-10-26
 author: Airlines Group Travel
 image: /assets/img/viva-aerobus-group-travel.jpg
-image_alt: Banner reading Viva Aerobus Group Travel — low-cost group fares across the Viva Aerobus network
+image_alt: Banner reading Viva Aerobus Group Travel — low-cost group fares
+  across the Viva Aerobus network
 image_caption: Viva Aerobus Group Travel
 published: true
 ---
@@ -27,12 +29,12 @@ Traveling as a group is accessible for flyers on Viva Aerobus, but there are cer
 
 On Viva Aerobus, journeys with multiple companions can be booked easily without going through any complexities or hassle. To do that, the airline offers efficient ways that reduce the effort and time by offering bookings within a unified system. This system ensures that passengers do not have to struggle with arranging separate tickets for each individual and can fly conveniently. Furthermore, to make a Viva Aerobus Group Booking, one can utilize the phone number: +1 866 359 8482 (866 FLY VIVA), the email option by writing to vivagrupos@vivaaerobus.com or by using the online portal of the airline. All the methods are quite effortless to use and can be accessed smoothly. To learn more about the online booking method and its subsequent steps, refer to the section outlined below.
 
-- Go to the Viva Aerobus official webpage to begin the procedure.
-- Click on the "Info" tab on the homepage and select the "Groups" option.
-- Now, tap on the "Book online" icon and register with your credentials.
-- Next, submit the required travel details, and the airline will release a quote based on the given information.
-- Approve the offer within the validity period and then complete the payment as per the contract.
-- Then, share the list of names of all the flyers before the due date passes and get the confirmed tickets sent to the applicant's registered email.
+1. Go to the Viva Aerobus official webpage to begin the procedure.
+2. Click on the "Info" tab on the homepage and select the "Groups" option.
+3. Now, tap on the "Book online" icon and register with your credentials.
+4. Next, submit the required travel details, and the airline will release a quote based on the given information.
+5. Approve the offer within the validity period and then complete the payment as per the contract.
+6. Then, share the list of names of all the flyers before the due date passes and get the confirmed tickets sent to the applicant's registered email.
 
 ## Conclusion
 
