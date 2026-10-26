@@ -2,12 +2,14 @@
 slug: how-to-book-aegean-airlines-group-travel
 title: How to Book Aegean Airlines Group Travel for a Group?
 meta_title: How to Book Aegean Airlines Group Travel?
-description: Aegean Airlines group travel is open to parties of more than 9 on the same
-  flight and route. Learn the terms, the booking steps and how group discounts are set.
+description: Aegean Airlines group travel is open to parties of more than 9 on
+  the same flight and route. Learn the terms, the booking steps and how group
+  discounts are set.
 date: 2026-10-26
 author: Airlines Group Travel
 image: /assets/img/aegean-airlines-group-travel.jpg
-image_alt: Banner reading Aegean Airlines Group Travel — group fares and terms for parties of ten or more
+image_alt: Banner reading Aegean Airlines Group Travel — group fares and terms
+  for parties of ten or more
 image_caption: Aegean Airlines Group Travel
 published: true
 ---
@@ -27,14 +29,14 @@ Aegean Airlines accommodates group journeys arranged for different travel purpos
 
 Aegean Airlines provides a route for arranging group reservations through a travel agency. The required group request can be shared with the agents by providing the relevant journey and passenger details for the intended itinerary. They can then coordinate these **Aegean Airlines group booking** details and proceed with the applicable reservation formalities. The complete procedure for making such reservations through a travel agency is outlined in the steps below.
 
-- Head to the website of a travel agency that offers group travel services.
-- Access the group travel form and enter the essential details.
-- Further, check the entered information and submit the request.
-- Then, your request will be reviewed, and a quotation will be sent to you.
-- Check the offer and confirm it within the given time.
-- Complete the payment according to the quoted amount and terms.
-- Afterward, submit the names of all members along with any other needed information.
-- After everything is received, the group itinerary is sent to the registered email address.
+1. Head to the website of a travel agency that offers group travel services.
+2. Access the group travel form and enter the essential details.
+3. Further, check the entered information and submit the request.
+4. Then, your request will be reviewed, and a quotation will be sent to you.
+5. Check the offer and confirm it within the given time.
+6. Complete the payment according to the quoted amount and terms.
+7. Afterward, submit the names of all members along with any other needed information.
+8. After everything is received, the group itinerary is sent to the registered email address.
 
 ## Does Aegean Airlines Offer Group Discounts?
 
