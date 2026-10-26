@@ -2,12 +2,14 @@
 slug: how-to-book-finnair-group-travel
 title: How To Book Finnair Group Travel?
 meta_title: How To Book Finnair Group Travel?
-description: Finnair group travel covers parties of 10 or more on one booking, with a
-  flexible payment schedule, name changes until ticketing and baggage in the fare.
+description: Finnair group travel covers parties of 10 or more on one booking,
+  with a flexible payment schedule, name changes until ticketing and baggage in
+  the fare.
 date: 2026-10-26
 author: Airlines Group Travel
 image: /assets/img/finnair-group-travel.jpg
-image_alt: Banner reading Finnair Group Travel — one itinerary for ten or more travellers on Finnair
+image_alt: Banner reading Finnair Group Travel — one itinerary for ten or more
+  travellers on Finnair
 image_caption: Finnair Group Travel
 published: true
 ---
@@ -21,13 +23,13 @@ Yes, Finnair does offer group bookings for parties of 10 or more people. By virt
 
 Finnair lets flyers procure their flight tickets for a group in a quite easy way. Here, they can leave all their travel arrangements for their shared trip to a travel agency that suits their requirements. To do so, one can either submit a request by calling or visiting the official website. Curating a reservation in this way could free the travelers from the stress of booking and also save time. Furthermore, the complete walkthrough of the entire booking process is depicted in the pointers at the bottom.
 
-- Connect with the travel agency handling the booking.
-- Share all the details of the expedition required.
-- Then, receive the priced offer in your email with a due date.
-- Accept the quotation within the given time frame.
-- Pay the travel expense stated in the quote.
-- Share the names of the passengers.
-- At the end, the tickets will be sent to the email address.
+1. Connect with the travel agency handling the booking.
+2. Share all the details of the expedition required.
+3. Then, receive the priced offer in your email with a due date.
+4. Accept the quotation within the given time frame.
+5. Pay the travel expense stated in the quote.
+6. Share the names of the passengers.
+7. At the end, the tickets will be sent to the email address.
 
 ## What Are the Benefits of Group Travel on Finnair?
 
