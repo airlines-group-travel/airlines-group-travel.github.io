@@ -22,14 +22,14 @@ Absolutely, group travel service is offered on American Airlines. These one-of-a
 
 Getting flight tickets for groups cannot be more convenient than it is on American Airlines. For the traveler’s convenience, there are a range of methods provided for crafting the reservation. One can select the mode that they find fitting for themselves. Those who want to curate the booking quickly and under the personal guidance of the American Airlines group sales desk can call the airline at 800-221-2255. Other than that, there are two other ways that one can use, and that is by emailing the journey details to [aagmt.internet@aa.com](mailto:aagmt.internet@aa.com). This is fitting for flyers who want to take their time to book. Besides, the airline’s official website can also be used to secure the group flight, and the process for the same is illustrated below.
 
-1. Head to the official website of American Airlines. 
-2. Tap on the “Business travel services” tab. 
-3. Then, select the “Group & Meeting Travel” option. 
-4. Next, click on the “Request a group rate” icon. 
+1. Head to the official website of American Airlines.
+2. Tap on the “Business travel services” tab.
+3. Then, select the “Group & Meeting Travel” option.
+4. Next, click on the “Request a group rate” icon.
 5. From there, proceed by clicking on "Next."
 6. Now, fill out the form and submit it to get the offer.
-7. After receiving the quotation via email, confirm it before the due date. 
-8. Further, complete the transaction and share the names of the flyers. 
+7. After receiving the quotation via email, confirm it before the due date.
+8. Further, complete the transaction and share the names of the flyers.
 9. Afterward, the tickets will be made available to your submitted email ID.
 
 ### **Conclusion**
