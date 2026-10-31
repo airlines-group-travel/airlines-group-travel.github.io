@@ -20,7 +20,7 @@ Absolutely, group travel service is offered on American Airlines. These one-of-a
 
 ## **Can I Book Group Travel with American Airlines?**
 
-Getting flight tickets for groups cannot be more convenient than it is on American Airlines. For the traveler’s convenience, there are a range of methods provided for crafting the reservation. One can select the mode that they find fitting for themselves. Those who want to curate the booking quickly and under the personal guidance of the American Airlines group sales desk can call the airline at 800-221-2255. Other than that, there are two other ways that one can use, and that is by emailing the journey details to [aagmt.internet@aa.com](mailto:aagmt.internet@aa.com). This is fitting for flyers who want to take their time to book. Besides, the airline’s official website can also be used to secure the group flight, and the process for the same is illustrated below.
+Getting flight tickets for groups cannot be more convenient than it is on American Airlines. For the traveler’s convenience, there are a range of methods provided for crafting the reservation. One can select the mode that they find fitting for themselves. Those who want to curate the booking quickly and under the personal guidance of the American Airlines group sales desk can call the airline at 800-221-2255. Other than that, there are two other ways that one can use, and that is by emailing the journey details to aagmt.internet@aa.com. This is fitting for flyers who want to take their time to book. Besides, the airline’s official website can also be used to secure the group flight, and the process for the same is illustrated below.
 
 1. Head to the official website of American Airlines.
 2. Tap on the “Business travel services” tab.
