@@ -30,7 +30,7 @@ A trip becomes easier to coordinate when several passengers have the same destin
 
 Group flight reservations can be requested online on Air France. This method allows organizers to share the required information directly through the airline’s official website. But to make Air France group reservations, meeting the established conditions is crucial. From the website, travelers are able to view those rules before submitting their booking request. Besides, the complete process of requesting a group flight through the website is explained below.
 
-1. Start by heading to Air France’s official website. 
+1. Start by heading to Air France’s official website.
 2. From the “Information” tab, move to the “Passengers” section.
 3. The next step is to open the “Group travel” page.
 4. Further, select “Request a quote” and add the journey route, travel dates, number of passengers, and any special assistance needs.
