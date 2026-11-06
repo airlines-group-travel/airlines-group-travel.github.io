@@ -22,11 +22,11 @@ On Singapore Airlines, multiple flyers can initiate their journey together by op
 
 Preparing a group flight on Singapore Airlines is much easier than purchasing tickets individually. Here, the flyers have to make a request for a Singapore Airlines Group booking by contacting the professionals. This can be smoothly done by dialing +1 833 727-0118 and sharing the travel details with them. This way, the representative will assist the flyer with the complete procedure from start to end. Other than that, they can also ask for resolution of any of their booking-related queries. Besides, one can know the detailed steps by reading the points mentioned below. 
 
-1. Connect with the airline by dialing the group desk number of Singapore Airlines. 
-2. After that, convey the travel details and specific requirements to the executives. 
-3. After getting all the information, the airline will share a quotation and explain it in detail. 
-4. Understand it and confirm the details within the given time period. 
-5. Share the accompanying passengers' details and complete the final payment. 
+1. Connect with the airline by dialing the group desk number of Singapore Airlines.
+2. After that, convey the travel details and specific requirements to the executives.
+3. After getting all the information, the airline will share a quotation and explain it in detail.
+4. Understand it and confirm the details within the given time period.
+5. Share the accompanying passengers' details and complete the final payment.
 6. At the end, the airline will share the ticket itinerary to the registered email address.
 
 ### **Conclusion**
