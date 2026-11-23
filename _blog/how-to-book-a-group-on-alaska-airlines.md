@@ -16,24 +16,26 @@ Planning to explore a destination with multiple companions becomes much more con
 
 ## **What Are the Group Travel Terms & Conditions of Alaska Airlines?**
 
-Organizing a journey for multiple travelers on Alaska Airlines first requires one to pay attention to the associated set of rules. These refined policies shed light on the requirements that are necessary to fulfill to acquire group flight tickets. Acknowledging the [Alaska group travel policy](https://www.airlinesgrouptravel.com/flights/alaska-airlines-group-travel)**** makes it possible to organise and manage the journey quite easily. Besides, one may look at the information shared below to learn the specific regulations pertinent to group travel on the airline.
+Organizing a journey for multiple travelers on Alaska Airlines first requires one to pay attention to the associated set of rules. These refined policies shed light on the requirements that are necessary to fulfill to acquire group flight tickets. Acknowledging the [Alaska group travel policy](https://www.airlinesgrouptravel.com/flights/alaska-airlines-group-travel) makes it possible to organise and manage the journey quite easily. Besides, one may look at the information shared below to learn the specific regulations pertinent to group travel on the airline.
 
 - The flyers must keep the group size to a minimum of 10 members, and they all should be flying to a common destination using the same flight.
 - The reservation window will be open 11 months in advance, and the itinerary must be finished within this timeline. 
 - The issued base fare remains the same if all the rules are adhered to and no modifications are made to the itinerary. 
 - Name changes are free of cost before 72 hours of departure, and after that travelers will have to pay a fee for each name change. 
-- There will be no refund after ticketing. Flyers can use the same value of the tickets for their future outbound travel. 
+- There will be no refund after ticketing. Flyers can use the same value of the tickets for their future outbound travel.
+
+
 
 ## **How to Book a Group on Alaska Airlines?**
 
 On Alaska Airlines, seats for multiple travelers can be secured quite smoothly through the call method. Handling a request for group booking through this allows one to grab the flight tickets promptly, even when one is reserving for various members. So, use the dedicated contact number 1-800-445-4435 and arrange the Alaska Airlines group itinerary under the guidance of an expert. Moreover, the reservation desk remains open from Monday through Friday, 6:00 am to 6:00 pm, and on Saturday, 7:30 am to 6 pm. Besides, the flyer may refer to the pointers below to get a complete understanding of the ticketing process.
 
-1. After connecting with the airline using the phone number. 
+1. After connecting with the airline using the phone number.
 2. Share the specifics of the journey, such as member count, destination, etc.
-3. Next, a price quote will be shared by the airline through email. 
-4. Confirm the contract and pay the amount as stated therein. 
-5. Submit the list of the names of the passengers. 
-6. Finally, the tickets will be sent to your designated email ID. 
+3. Next, a price quote will be shared by the airline through email.
+4. Confirm the contract and pay the amount as stated therein.
+5. Submit the list of the names of the passengers.
+6. Finally, the tickets will be sent to your designated email ID.
 
 ### **Conclusion**
 
