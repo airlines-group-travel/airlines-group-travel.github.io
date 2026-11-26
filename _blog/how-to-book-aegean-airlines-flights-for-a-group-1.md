@@ -1,5 +1,5 @@
 ---
-slug: how-to-book-aegean-airlines-flights-for-a-group
+slug: how-to-book-aegean-airlines-flights-for-groups
 title: How to Book Aegean Airlines Flights for a Group?
 meta_title: How to Book Aegean Airlines Flights for a Group?
 description: Aegean Airlines group booking available for 10 or more passengers
@@ -22,14 +22,14 @@ Trips arranged with multiple companions can be accomplished conveniently on Aege
 - Group fares include 1 checked bag, a carry-on bag of 23 kg and 8 kg, respectively, and a personal item.
 - Name changes and other modifications are allowed if they are mentioned in the contract shared by the airline.
 
-## **How to Book Aegean Airlines Group Travel for a Group?** 
+## **How to Book Aegean Airlines Group Travel for a Group?**
 
 Flying together with loved ones on Aegean Airlines allows passengers to easily make bookings. This is possible with the group services of the airline, which let flyers arrange bookings under a centralized system. Along with that, an Aegean Airlines group booking also reduces travelers stress and the struggle of making individual reservations. Furthermore, this can be done by reaching out to an authorized travel agency that deals with group reservations. In addition to that, passengers can obtain tickets flawlessly through this approach by following the steps mentioned below.
 
-1. One must look for a reliable travel agency to begin the booking. 
+1. One must look for a reliable travel agency to begin the booking.
 2. Then, travelers have to communicate their trip details and necessities with the agency.
-3. After that, a customized quote will be shared by the airline, which should be approved by the passengers before the validity expires. 
-4. Now complete the payment process and share the names of the flyers within the allotted time period. 
+3. After that, a customized quote will be shared by the airline, which should be approved by the passengers before the validity expires.
+4. Now complete the payment process and share the names of the flyers within the allotted time period.
 5. Finally, one will be able to collect the group tickets that will be sent to the registered email address of the applicant.
 
 ### **Conclusion**
